@@ -1,0 +1,3 @@
+[submodule "blogtmp/themes/PaperMod"]
+	path = blogtmp/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
