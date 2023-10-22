@@ -1,4 +1,4 @@
-baseURL = 'https://adam-greer.github.io/'
+baseURL = 'https://adam-greer.github.io/blogtmp/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme: 'PaperMod'
